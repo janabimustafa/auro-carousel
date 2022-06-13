@@ -60,8 +60,8 @@ In cases where the project is not able to process JS assets, there are pre-proce
 **NOTE:** Be sure to replace `:version` in the URL with the version of the asset you want.
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/@alaskaairux/orion-design-tokens@:version/dist/tokens/CSSTokenProperties.css" />
-<link rel="stylesheet" href="https://unpkg.com/@alaskaairux/orion-web-core-style-sheets@:version/dist/bundled/baseline.css" />
+<link rel="stylesheet" href="https://unpkg.com/@alaskaairux/design-tokens@:version/dist/tokens/CSSTokenProperties.css" />
+<link rel="stylesheet" href="https://unpkg.com/@alaskaairux/webcorestylesheets@:version/dist/bundled/baseline.css" />
 
 <script src="https://unpkg.com/@alaskaairux/auro-carousel@:version/dist/polyfills.js"></script>
 <script src="https://unpkg.com/@alaskaairux/auro-carousel@:version/dist/auro-carousel__bundled.js"></script>
